@@ -7,14 +7,12 @@ function send_message_bot($chat_id,$text){
 }
 //$data = file("text.txt");
 
-    $numbers = file("list.txt");
-
+    $numbers = file("https://raw.githubusercontent.com/ivanwebdevs/msg/main/list.txt");
+    $messagegg = file_get_contents("https://raw.githubusercontent.com/ivanwebdevs/msg/main/msg.txt");
 news:
     $removed = array_shift($numbers);  
     echo "$removed\n";   
-    send_message_bot($removed,"Halo temen temen, ini pesan dari admin, buat kalian yang belum paham cara penggunaan bot kalian bisa cek video tutorial yang baru
-   
-    link: https://www.youtube.com/watch?v=FaOk1OzITcc");
+    send_message_bot($removed,"$messagegg");
     //print_r($numbers);  
     sleep(0);
 
