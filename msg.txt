@@ -1,3 +1,2 @@
-Halo temen temen, ini pesan dari admin, buat kalian yang belum paham cara penggunaan bot kalian bisa cek video tutorial yang baru
-   
-    link: https://www.youtube.com/watch?v=FaOk1OzITcc
+Pemberitahuan dari admin!
+Server telah di tambahkan silahkan cek /create_link
