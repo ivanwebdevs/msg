@@ -1,2 +1,10 @@
 Pemberitahuan dari admin!
-Server telah di tambahkan silahkan cek /create_link
+
+Halo kamu, apa kabar?
+
+sekarang bot ini sedang ada penambahan fitur, jika kamu memiliki ide yang mau di tambahkan ke bot ini silahkan chat admin ya @zerif_sanjaya
+
+apa untungnya?
+nama kamu akan di tuliskan apda /developer pada kolom kontribusi
+
+sekian trimakasih 🙏
