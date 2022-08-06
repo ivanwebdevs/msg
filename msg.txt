@@ -1,10 +1,10 @@
-Pemberitahuan dari admin!
+NEW UPDATE!
 
-Halo kamu, apa kabar?
+FITUR DEVELOPER MODE TELAH DIRILIS!
 
-sekarang bot ini sedang ada penambahan fitur, jika kamu memiliki ide yang mau di tambahkan ke bot ini silahkan chat admin ya @zerif_sanjaya
+Kegunaan : Kamu dapat membuat link track dengan tampilan sesuai keinginan mu!
 
-apa untungnya?
-nama kamu akan di tuliskan apda /developer pada kolom kontribusi
+Tutorial : https://www.youtube.com/watch?v=FbwiHqHbzj4&feature=youtu.be
 
-sekian trimakasih 🙏
+
+Note *Jika ada yang ingin di sampaikan boleh langsung chat admin ya @zerif_sanjaya
